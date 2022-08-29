@@ -3,7 +3,7 @@
 > _wich means: "Hello world! My name is Tiago!"_ 
 #### Um pouco sobre mim: 
 - I'm currently studing **Data Analytics** 
-- I’m starting projects in Python, SQL & **everything related to the subject**! 
+- I’m starting projects in Python, SQL, R & **everything related to the subject**! 
 <div align="left">
   <a href="https://github.com/til021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
