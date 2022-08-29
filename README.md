@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @til021
-- 👀 I’m interested in "Data Analytics"
-- 🌱 I’m currently learning Python & SQL 
-- 💞️ I’m looking to collaborate on Statistical Analysis, Data Visualization, APIs and more! 
-- 📫 How to reach me? Through GitHub!
+
+### Eaee galera, eu sou o Tiago!
+> _wich means: "Hello world! My name is Tiago!"_ 
+
+#### Um pouco sobre mim: 
+- I'm currently studing **Data Analytics** 
+- I’m starting projects in Python, SQL & **everything related to the subject**! 
 
 <div align="center">
   <a href="https://github.com/til021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=til021&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=til021&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+    <img align="center" alt="TiL-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="TiL-Python" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
