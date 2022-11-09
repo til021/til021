@@ -17,11 +17,9 @@ Atualmente venho me especializando na área de Tecnologia da Informação, mais 
 
 Sempre fui voltado para a área fiscal (auditoria e controle), e venho me dedicando a ela desde 2018 através de estudos para concursos públicos. Tais estudos me forneceram uma excelente base em **contabilidade, estatística, finanças, direito e TI**. Ou seja, acabei me tornando um profissional "generalista".
 
-Tenho um excelente conhecimento teórico de legislação, incluindo a **LGPD** (Lei Geral de Proteção de Dados), bem com tenho afinidade por **metodologias ágeis**.
-
-Busco entrar na área de análise de dados para reforçar essas competências, consolidando minha habilidade analítica, organizacional e voltado para o fazer.
+Tenho um excelente conhecimento teórico de legislação, incluindo a **LGPD** (Lei Geral de Proteção de Dados), bem com tenho afinidade por **metodologias ágeis**. Busco entrar na área de análise de dados para reforçar essas competências, consolidando minha **habilidade analítica, organizacional e voltado para o fazer**.
 
 <div align="left">
   <a href="https://github.com/til021">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
 
