@@ -1,7 +1,7 @@
 
 ## Eaee galera, eu sou o Tiago!
 > _wich means: "Hello world! My name is Tiago!"_ 
-#### Um pouco sobre mim:
+### Um pouco sobre mim:
 
 Atualmente venho me especializando na área de Tecnologia da Informação, mais especificamente em **análise de dados**, com a utilização de ferramentas avançadas tais como **Python, BigQuery, SQL, Power BI, Excel e Git**.
 </div> 
