@@ -5,7 +5,7 @@
 > 
 ### About me:
 
-I'm currently specialising myself in the IT field, specifically as a **Data Analyst**! My main projects include machine learning modules, API's integrations, data cleaning, data exploration and visualization!  
+I'm currently specialising myself in the IT department, specifically as a **Data Analyst**! My main projects include machine learning modules, API's integrations, data cleaning, data exploration and visualization!  
 
 My most used programming features are: **Python, BigQuery, SQL, Power BI, Excel** and **Git**.
 </div> 
