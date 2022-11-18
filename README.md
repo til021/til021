@@ -1,7 +1,7 @@
 
 ## Hey guys, je suis Tiago!
-> _wich means: "Hello world! My name is Tiago!"_   
-> Btw, I don't speak french, but you can check my [portuguese page here!]()  
+> Btw, I don't speak french.   
+> **[Para ver meu perfil em português, clique aqui!](https://github.com/til021/til021/tree/pt-br)**  
 > 
 ### About me:
 
