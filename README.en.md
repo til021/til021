@@ -1,7 +1,8 @@
 
-## Eaee galera, eu sou o Tiago!
-> _wich means: "Hello world! My name is Tiago!"_  
-> **[For an english version, click here!](https://github.com/til021/til021/blob/main/README.en.md)**
+## Hey guys, je suis Tiago!
+> _wich means: "Hello world! My name is Tiago!"_   
+> Btw, I don't speak french, but you can check my [portuguese page here!]()  
+> 
 ### About me:
 
 I'm currently specialising myself in the IT field, specifically as a **Data Analyst**! My main projects include machine learning modules, API's integrations, data cleaning, data exploration and visualization!  
