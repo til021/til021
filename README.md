@@ -1,8 +1,8 @@
 
 ## Eaee galera, eu sou o Tiago!
 > _wich means: "Hello world! My name is Tiago!"_  
-> **[For an english version, click here!]()**   
-> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
+> **[For an english version, click here!](https://github.com/til021/til021/blob/main/README.en.md)**   
+> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/til021/til021/blob/main/README.en.md)
 ### Um pouco sobre mim:
 
 Atualmente venho me especializando na área de Tecnologia da Informação, mais especificamente em **análise de dados**, com a utilização de ferramentas avançadas tais como **Python, BigQuery, SQL, Power BI, Excel e Git**.
