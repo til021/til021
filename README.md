@@ -19,9 +19,9 @@ My most used programming features are: **Python, BigQuery, SQL, Power BI, Excel*
 </div><br>
 
 
-Graduated bachelors in civil engineering, I devoted myself to audit and law studies, aiming for a public officer carrer. These studies have given me an outstanding knowledge in **accountability, taxes, statistics, finance, law, and IT**. Well, I'd say I became a multy task professional.
+Graduated bachelors in civil engineering, I devoted myself to audit and law studies, aiming for a public officer carrer. These studies have given me an outstanding knowledge in **accountability, taxes, statistics, finance, law, and IT**. I'd say I became a multy task professional.
 
-I've an excelent background in providing **data driven decisions**, and I devote myself to the **agile lifestyle**. I aim to work as a data analyst to strenghten my capabilities, seeking opportunities to display my **analytical, organizational and communicational skills**.  
+I've an excelent background in providing **data driven decisions**, and I devote myself to the **agile lifestyle**. I aim to work as a data analyst to strenghten my capabilities, diving into challenging projects and extracting useful information! 
 
 <div align="left">
   <a href="https://github.com/til021">
