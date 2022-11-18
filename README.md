@@ -7,7 +7,7 @@
 
 I'm currently specialising myself in the IT field, specifically as a **Data Analyst**! My main projects include machine learning modules, API's integrations, data cleaning, data exploration and visualization!  
 
-My most used programming languages are: **Python, BigQuery, SQL, Power BI, Excel** and **Git**.
+My most used programming features are: **Python, BigQuery, SQL, Power BI, Excel** and **Git**.
 </div> 
 <div style="display: inline_block">    
     <img align="center" alt="TiL-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
