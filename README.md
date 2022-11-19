@@ -23,6 +23,8 @@ Graduated bachelors in civil engineering, I devoted myself to audit and law stud
 
 I've an excelent background in providing **data driven decisions**, and I devote myself to the **agile lifestyle**. I aim to work as a data analyst to strenghten my capabilities, diving into challenging projects and extracting useful information! 
 
+In my previous working experience I've worked in the real market estate as a contract manager, overseeing the rental of commercial warehouses. This means I have a global business view. I'm able to identify company needs and can use this knowledge to improve and direct my work performance.
+
 <div align="left">
   <a href="https://github.com/til021">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
