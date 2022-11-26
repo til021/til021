@@ -19,11 +19,11 @@ My most used programming features are: **Python, BigQuery, SQL, Power BI, Excel*
 </div><br>
 
 
-Graduated bachelors in civil engineering, I devoted myself to audit and law studies, aiming for a public officer carrer. These studies have given me an outstanding knowledge in **accountability, taxes, statistics, finance, law, and IT**.  
+I also have proficiency in **Project Management (PMBOK), Process Modeling (BPMN), IT service management (ITIL and COBIT), agile framework (SCRUM and Kanban), data modeling, bigdata and information security**.  
 
 I've an excelent background in providing **data driven decisions**, and I devote myself to the **agile lifestyle**. I aim to work as a data analyst to strenghten my capabilities, diving into challenging projects and extracting useful information! 
 
-In my previous working experience I've worked in the real market estate as a contract manager, overseeing the rental of commercial warehouses. This means I have a global business view. I'm able to identify company needs and can use this knowledge to improve and direct my work performance.
+Areas of Interest and Expertise: Data Analysis, Data Science, Risk Analysis, Quality Analysis, Innovation and Technology.
 
 <div align="left">
   <a href="https://github.com/til021">
