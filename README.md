@@ -5,7 +5,7 @@
 ### Um pouco sobre mim:
 
 
-Atualmente venho me especializando na área de Tecnologia da Informação, mais especificamente em **análise de dados**. Trabalho com a utilização de ferramentas avançadas tais como **Python e SQL**, por isso tenho experiência com aplicações na nuvem (tais como o **BigQuery** e o **Looker**), **Power BI, Excel e Git** (não apenas o GitHub).
+Atualmente venho me especializando na área de Tecnologia da Informação, mais especificamente em **análise de dados**. Trabalho com a utilização de ferramentas avançadas tais como **Python e SQL**, por isso tenho experiência com aplicações na nuvem (tais como o **BigQuery** e o **Looker**), **Power BI, Excel, Git** (não apenas o GitHub) e **Machine Learning**.
 </div> 
 <div style="display: inline_block">    
     <img align="center" alt="TiL-Python" height="75" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
