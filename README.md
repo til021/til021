@@ -1,11 +1,11 @@
 
 ## Hey guys, je suis Tiago!
 > Btw, I don't speak french, but I speak portuguese!   
-> **[Para ver meu perfil em português, clique aqui!](https://github.com/til021/til021/tree/pt-br)**  
+> **[Para ver meu perfil em português, clique aqui!](https://github.com/til021/til021/blob/main/README.pt-br.md)**  
 > 
 ### About me:
 
-I'm currently specialising myself as a **Data Analyst**! My main projects include machine learning modules, API's and cloud integrations, data cleaning, data exploration and visualization!  
+I'm a **Data Analyst Specialist**! My main projects include machine learning modules, API's and cloud integrations, data cleaning, data exploration and visualization! 
 
 My most used programming languages are **Python** and **SQL**, therefore I excell at **Cloud Applications** (such as Google Cloud), **Spark**, **Power BI, Excel** and **Git** (not just GitHub).
 </div> 
