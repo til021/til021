@@ -5,15 +5,15 @@
 > 
 ### About me:
 
-I'm currently specialising myself in the IT department, specifically as a **Data Analyst**! My main projects include machine learning modules, API's integrations, data cleaning, data exploration and visualization!  
+I'm currently specialising myself as a **Data Analyst**! My main projects include machine learning modules, API's and cloud integrations, data cleaning, data exploration and visualization!  
 
-My most used programming languages are **Python** and **SQL**, therefore I excell at **Cloud Applications** (such as **BigQuerry** and **Looker**), **Power BI, Excel** and **Git** (not just GitHub).
+My most used programming languages are **Python** and **SQL**, therefore I excell at **Cloud Applications** (such as Google Cloud), **Spark**, **Power BI, Excel** and **Git** (not just GitHub).
 </div> 
 <div style="display: inline_block">    
     <img align="center" alt="TiL-Python" height="75" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="TiL-Python" height="110" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="TiL-Python" height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg">
-    <img align="center" alt="TiL-Python" height="60" width="80" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
+    <img align="center" alt="TiL-Python" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg">
+    <img align="center" alt="TiL-Python" height="110" width="150" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
     <img align="center" alt="TiL-Python" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
     <img align="center" alt="TiL-Python" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
     <img align="center" alt="TiL-Python" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
