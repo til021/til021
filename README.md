@@ -13,7 +13,7 @@ My most used programming languages are **Python** and **SQL**. I've developed pr
     <img align="center" alt="TiL-Python" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="TiL-Python" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="TiL-Python" height="80" width="75" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg">
-    <img align="center" alt="TiL-Python" height="110" width="145" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
+    <img align="center" alt="TiL-Python" height="110" width="135" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
     <img align="center" alt="TiL-Python" height="80" width="95" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
     <img align="center" alt="TiL-Python" height="120" width="85" src="https://www.svgrepo.com/show/349342/docker.svg">  
     <img align="center" alt="TiL-Python" height="60" width="75" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
