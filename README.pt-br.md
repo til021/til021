@@ -5,7 +5,7 @@
 ### Um pouco sobre mim:
 
 
-Sou especialista em **análise de dados**, meus principais projetos incluem **machine learning**, integração com API's, limpeza, exploração e visualização de dados. Minhas pricipais linguagens de programação são **Python e SQL**, tenho experiência com aplicações na nuvem (tais como o **Google Cloud**), **Spark**, **Power BI, Excel, Git** (não apenas o GitHub). Atualmente estou me especializando em **Django** e **Docker**.
+Sou um **analista de dados**, meus principais projetos incluem módulos de **machine learning**, integração com API's, limpeza, exploração e visualização de dados. Minhas pricipais linguagens de programação são **Python e SQL**, tenho experiência com aplicações na nuvem (tais como o **Google Cloud**), **Spark**, **Power BI, Excel, Git** e **Docker**. Atualmente estou me especializando em **Django**.
 </div> 
 <div style="display: inline_block">    
     <img align="center" alt="TiL-Python" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,11 +21,13 @@ Sou especialista em **análise de dados**, meus principais projetos incluem **ma
 </div><br>
 
 
-Sempre fui voltado para a área tributária e fiscal (auditoria e controle), e venho me dedicando a ela desde 2018, através de estudos para concursos públicos. Tais estudos, além de me resultarem diversas aprovações, me forneceram uma excelente base em **contabilidade, estatística, finanças, direito e TI**.
+Tenho uma excelente base em **contabilidade, estatística, finanças, direito e TI**. Em especial, os estudos da área de TI me introduziram à **Gestão de Projetos (PMBOK), Modelagem de Processos (BPMN), Gerência de Serviços de TI (ITIL e COBIT), Gerenciamento Ágil (SCRUM e Kanban), Banco de Dados, Modelagem de Dados, Segurança da Informação e Lei Geral de Proteção de Dados (LGPD)**. 
 
-Em especial, os estudos da área de TI me introduziram à **Gestão de Projetos (PMBOK), Modelagem de Processos (BPMN), Gerência de Serviços de TI (ITIL e COBIT), Gerenciamento Ágil (SCRUM e Kanban), Banco de Dados, Modelagem de Dados, Segurança da Informação e Lei Geral de Proteção de Dados (LGPD)**. 
+Tenho afinidade por **metodologias ágeis** e direciono meus projetos com foco na **agregação de valor**.
 
-Tenho afinidade por **metodologias ágeis**, sou voltado para o fazer e busco por projetos desafiadores, a fim de extrair 'insights', identificar padrões, ajudar pessoas a superar problemas e **agregar valor**.
+Áreas de INteresse e Expertise: Data Analysis, Data Engineering, Data Science, Risk Analysis, Innovation and Technology.
+
+
 
 <div align="left">
   <a href="https://github.com/til021">
