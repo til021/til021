@@ -26,8 +26,6 @@ My most used programming languages are **Python** and **SQL**. I've developed pr
 
 I also have proficiency in **Project Management (PMBOK), Process Modeling (BPMN), IT service management (ITIL and COBIT), agile framework (SCRUM and Kanban), data modeling, bigdata and information security**.  
 
-I've an excelent background in providing **data driven decisions**, and I devote myself to the **agile lifestyle**. 
-
 Areas of Interest and Expertise: Data Analysis, Data Engineering, Data Science, Risk Analysis, Innovation and Technology.
 
 <div align="left">
