@@ -25,7 +25,7 @@ Tenho uma excelente base em **contabilidade, estatística, finanças, direito e 
 
 Tenho afinidade por **metodologias ágeis** e direciono meus projetos com foco na **agregação de valor**.
 
-Áreas de INteresse e Expertise: Data Analysis, Data Engineering, Data Science, Risk Analysis, Innovation and Technology.
+Áreas de Interesse e Expertise: Data Analysis, Data Engineering, Data Science, Risk Analysis, Innovation and Technology.
 
 
 
