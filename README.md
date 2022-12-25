@@ -1,6 +1,6 @@
 
 ## Hey guys, je suis Tiago!
-> Btw, I don't speak french, but I speak portuguese!   
+> Btw, I don't speak french, but I speak english & portuguese!   
 > **[Para ver meu perfil em português, clique aqui!](https://github.com/til021/til021/blob/main/README.pt-br.md)**  
 > 
 ### About me:
