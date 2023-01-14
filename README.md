@@ -28,8 +28,8 @@ I also have proficiency in **Project Management (PMBOK), Process Modeling (BPMN)
 
 Areas of Interest and Expertise: Data Analysis, Data Engineering, Data Science, Risk Analysis, Innovation and Technology.
 
-<div align="left">
-  <a href="https://github.com/til021">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+<!---div align="left">
+  <!---a href="https://github.com/til021">
+  <!---img height="200em" src="https://github-readme-stats.vercel.app/api?username=til021&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
 
 
