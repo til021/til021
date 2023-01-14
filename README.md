@@ -10,14 +10,14 @@ I'm a **Data Analyst**! My main projects include machine learning modules, API's
 My most used programming languages are **Python** and **SQL**. I've developed projects through **Cloud Applications** (such as Google Cloud), and I'm used to working with the followiing frameworks: **Spark**, **Power BI, Excel, Git** and **Docker**. I'm currently specialysing myself in **Django**.
 </div> 
 <div style="display: inline_block">    
-    <img align="center" alt="TiL-Python" height="75" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="TiL-Python" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="TiL-Python" height="80" width="75" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg">
-    <img align="center" alt="TiL-Python" height="110" width="135" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
-    <img align="center" alt="TiL-Python" height="80" width="95" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
-    <img align="center" alt="TiL-Python" height="120" width="85" src="https://www.svgrepo.com/show/349342/docker.svg">  
-    <img align="center" alt="TiL-Python" height="60" width="75" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
-    <img align="center" alt="TiL-Python" height="60" width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+    <img align="center" alt="TiL-Python" height="75" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="TiL-Python" height="110" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="TiL-Python" height="80" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg">
+    <img align="center" alt="TiL-Python" height="110" width="130" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
+    <img align="center" alt="TiL-Python" height="80" width="90" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
+    <img align="center" alt="TiL-Python" height="120" width="80" src="https://www.svgrepo.com/show/349342/docker.svg">  
+    <img align="center" alt="TiL-Python" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
+    <img align="center" alt="TiL-Python" height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
     <img align="center" alt="TiL-Python" height="60" width="75" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
 
     
