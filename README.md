@@ -7,13 +7,12 @@
 
 I'm a **Data Analyst**! My main projects include machine learning modules, API's and cloud integrations, data cleaning, data exploration and visualization! 
 
-My most used programming languages are **Python** and **SQL**. I've developed projects through **Cloud Applications** (such as Google Cloud), and I'm used to working with the followiing frameworks: **Spark**, **Power BI, Excel, Git** and **Docker**. I'm currently specialysing myself in **Django**.
+My most used programming languages are **Python** and **SQL**. I've developed projects through **Cloud Applications** (such as Google Cloud), and I'm used to working with the followiing frameworks: **Docker, Git, Power BI** and **Excel**. I'm currently specialysing myself in **Django**.
 </div> 
 <div style="display: inline_block">    
     <img align="center" alt="TiL-Python" height="75" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="TiL-Python" height="110" width="115" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="TiL-Python" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800">
     <img align="center" alt="TiL-Python" height="80" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg">
-    <img align="center" alt="TiL-Python" height="110" width="130" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
     <img align="center" alt="TiL-Python" height="80" width="90" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg">
     <img align="center" alt="TiL-Python" height="120" width="80" src="https://www.svgrepo.com/show/349342/docker.svg">  
     <img align="center" alt="TiL-Python" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
