@@ -4,7 +4,7 @@
 > 
 ### About me:
 
-I'm pursuing a carrer as a **Data Analyst**! My main frameworks:
+I'm pursuing a carrer as a **Data Analyst**! My main frameworks are:
 
 </div> 
 <div style="display: inline_block">    
