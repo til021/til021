@@ -1,8 +1,5 @@
 
 ## Hey guys, I'm Tiago!
-> **[Para ver meu perfil em português, clique aqui!](https://github.com/til021/til021/blob/main/README.pt-br.md)**  
-> 
-### About me:
 
 I'm pursuing a carrer as a **Data Analyst**! My main frameworks are:
 
